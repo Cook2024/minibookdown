@@ -1,1 +1,1 @@
-create-your-open-textbook
+create-my-first-open-textbook
