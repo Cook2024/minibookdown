@@ -1,5 +1,5 @@
 # Publishing
-
 This is the date to publish my book
 ## Revise
 Revise chapters before publishing
+Try to figure out reasons for failure
