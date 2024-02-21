@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Li's Experiment with Curriculum Open Textbooks"
+author: "Hong Li"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
