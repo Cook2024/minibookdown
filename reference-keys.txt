@@ -2,3 +2,6 @@ create-my-first-open-textbook
 introduction
 components
 timeline
+broader-affect
+publishing
+trobleshooting
